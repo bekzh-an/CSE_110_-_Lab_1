@@ -32,5 +32,9 @@ Here is a list of the cool things I do, and used to do:
 
 ![A photo of me swimming the 200 Breast at a dual meet against USC](https://images.sidearmdev.com/convert?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fucsdtritons.com%2Fimages%2F2026%2F1%2F16%2FBekzhanYessengeldy.jpg&type=webp)
 
+Here is is a photo of my home town - Almaty, Kazakhstan:
+[Almaty](Almaty.jpg)
+
+
 
 
