@@ -2,7 +2,7 @@
 
 My name is **Bekzhan Yessengeldy**
 
-I am a Computer Science student at UCSD and a D1 [swimmer] on the UCSD swim team. 
+I am a Computer Science student at UCSD and a D1 [swimmer](#swimming) on the UCSD swim team. 
 
 ## Coding
 I have been coding since I was elemetary school, starting with coding mods for minecraft. From there, my interest developed through high school, and eventually led me to majoring computer science in college. My favorite git command is 'git push' because it is satisfying to upload your work.
